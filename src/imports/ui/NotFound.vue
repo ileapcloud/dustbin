@@ -7,9 +7,9 @@
 <script>
 export default {
   render (h) {
-    return <div class="home">
+    return `<div class="home">
       <h1>#404</h1>
-    </div>
+    </div>`
   }
 }
 </script>
